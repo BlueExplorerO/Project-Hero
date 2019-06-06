@@ -28,7 +28,8 @@ h3{
         text-decoration: underline;
     }
 
-    body{
+    html, body{
+        font-family: Arial, sans-serif;
         background-color: #a5713d
         text-align: center;
 
